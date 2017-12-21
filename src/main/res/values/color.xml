@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--APP的主色调-->
+    <color name="homeColor">#f25843</color>
+
+    <!--¥颜色-->
+    <color name="money_color">#ff4200</color>
+
+
+    <!--黄色-->
+    <color name="yc">#4dffba00</color>
+
+
+
+</resources>
